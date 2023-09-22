@@ -5,7 +5,7 @@ int main(int argc, char** argv)
 	std::cout << "\n Please, enter your name:" << std::endl;
 	std::cin >> alfa;
 
-	std::cout << "\n Hello, " << alfa << std::endl;
+	
 	
 	return 0;
 }
